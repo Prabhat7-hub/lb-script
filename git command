@@ -1,0 +1,15 @@
+git config --global user.email "prabhatpatanayak7019@gmail.com"
+
+git config --global user.name "Prabhat7-hub"
+
+git init
+
+git add .
+
+git commit -m "commmit change"
+
+git remote add origin https://github.com/Prabhat7-hub/terraform-script.git
+
+git push orgin master
+
+git pull origin master
